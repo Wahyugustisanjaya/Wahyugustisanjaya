@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+	Belajar Html
+	</title>
+	<body>
+	<p>1. Hanya ada enam negara yang diakui sebagai kepuluan, yakni <i>Indonesia, Fiji, Trinidad dan Tobago, Bahama
+	, Papua Nugini, serta Filipina</i> </p>
+	<p>2. <U>Dari Sabang sampai Merauke, total ada sekitar<U></U> <b>17 ribu</b> <U>pulau di Indonesia</U></p>
+	<P><s>3. Papua Nugini, Kalimatan , dan sumatera termasuk 10 besar pulau terbesar didunia</s></P>
+	<p>4. Kepulauan riau adalah provinsi dengan pulau tebesar di <font size="4"><b>Indonesia</b></font>, dengan jumlah sekitar <b>2.408</b> <sup>pulau</sup> </p>
+	<p>5. Sayangnya pada 2002, <font color="red">Kita kehilangan beberapa pulau indah karena diklaim Malaysia</font> </p>
+	<p>  <li><b>Sipadan dan Ligitan</b> menjadi milik <font color="red">malaysia</font> setelah menag pengadilan keadilan internasional</li></p>
+	<p> <li>Seperti yang kita ketahui, Suku di indonesia juga banyak banget. Ada sekitar <s>740</s> suku lho</li></p>
+	<hr>
+	<p><li>Karenanya Lagi nih, 270 suku di antaranya berasal dari <font color="blue">Papua saja</font></li> </p>
+	<p><li>Selain banyaknya suku, indonesia juga memiliki sekitar 34 rumah adat dan 5.327 <sub><b>Kuliner Khas</b></sub></li></p>
+	<p><li>Gugusan terumbu karang di negara ini yang terbanyak dan terindah, biasa disebut <font size="6"><b>segitiga coral</b></font></li></p>
+	<hr>
+	</body>
+</head>
+</html>
